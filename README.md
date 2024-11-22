@@ -19,7 +19,11 @@ Cost Reduction: Eliminates reliance on labor-intensive processes, decreasing ope
 Cross-Domain Applications: The same framework can support multiple domain, enhancing its utility and broadening its application spectrum.
 
 Participant: 
-ankit.ahirwar@angelbroking.com - worked on sender id indetification
+ankit.ahirwar@angelbroking.com - worked on sender id indentification
 nareshkumar.y@angelbroking.com - worked on concept tagging
 veeraprathap.mamidi@angelbroking.com - designing the solution
 lovely.kumari@angelbroking.com - unique template identification , sms parsing
+
+Installation & Run Instructions : Run the jupyter notebook 
+
+
